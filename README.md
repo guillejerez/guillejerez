@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hola! 👋Soy Guille Jerez 
+
+Soy un desarrollador fullstack, me gusta trabajar en proyectos de uso de recursos masivos. 
+Siempre abierto a cualquier tecnología.
 
 <!--
 **guillejerez/guillejerez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
